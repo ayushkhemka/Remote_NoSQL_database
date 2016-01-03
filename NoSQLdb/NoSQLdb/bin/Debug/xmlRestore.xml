@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<nosqldb>
+  <keytype>int</keytype>
+  <payloadtype>string</payloadtype>
+  <key>100</key>
+  <element>
+    <name>Test Element</name>
+    <descr>Description</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>15</key>
+    </children>
+    <payload>Hello!</payload>
+  </element>
+<key>101</key>
+<element>
+    <name>Test Element1</name>
+    <descr>Description1</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>51</key>
+    </children>
+    <payload>Hello1!</payload>
+  </element>
+</nosqldb>

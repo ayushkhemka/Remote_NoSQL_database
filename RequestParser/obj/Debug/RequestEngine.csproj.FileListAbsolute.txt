@@ -1,0 +1,8 @@
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\obj\Debug\RequestEngine.csprojResolveAssemblyReference.cache
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\bin\Debug\RequestEngine.exe.config
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\bin\Debug\RequestEngine.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\bin\Debug\RequestEngine.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\obj\Debug\RequestEngine.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\obj\Debug\RequestEngine.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\bin\Debug\NoSQLdb.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\RequestParser\bin\Debug\NoSQLdb.pdb

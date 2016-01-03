@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<nosqldbLOS>
+  <keytype>string</keytype>
+  <payloadtype>ListOfString</payloadtype>
+  <key>Two</key>
+  <element>
+    <name>name2</name>
+    <descr>descr2</descr>
+    <timeStamp>11/20/2015 5:22:36 PM</timeStamp>
+    <children />
+    <payload>
+      <item>hello</item>
+      <item>world</item>
+    </payload>
+  </element>
+  <key>Three</key>
+  <element>
+    <name>name3</name>
+    <descr>descr3</descr>
+    <timeStamp>11/20/2015 5:22:36 PM</timeStamp>
+    <children>
+      <key>One</key>
+      <key>Two</key>
+      <key>Three</key>
+    </children>
+    <payload>
+      <item>fee</item>
+      <item>foo</item>
+      <item>bar</item>
+    </payload>
+  </element>
+</nosqldbLOS>

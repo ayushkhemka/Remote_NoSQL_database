@@ -1,0 +1,12 @@
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\QueryRequestEngine.exe.config
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\QueryRequestEngine.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\QueryRequestEngine.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\Utilities.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\ICommService.dll
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\Utilities.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\ICommService.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\obj\Debug\QueryRequestEngine.csprojResolveAssemblyReference.cache
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\obj\Debug\QueryRequestEngine.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\obj\Debug\QueryRequestEngine.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\NoSQLdb.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\QueryRequestEngine\bin\Debug\NoSQLdb.pdb

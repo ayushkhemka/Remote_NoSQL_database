@@ -1,0 +1,22 @@
+<read>
+  <queryType type="value">
+    <numMessages>2</numMessages>
+    <query>key</query>
+  </queryType>
+  <queryType type="children">
+    <numMessages>2</numMessages>
+    <query>key</query>
+  </queryType>
+  <queryType type="pattern">
+    <numMessages>2</numMessages>
+    <query>k</query>
+  </queryType>
+  <queryType type="string">
+    <numMessages>1</numMessages>
+    <query>descr</query>
+  </queryType>
+  <queryType type="interval">
+    <numMessages>1</numMessages>
+    <query>10/7/1999 12:00:00 AM</query>
+  </queryType>
+</read>

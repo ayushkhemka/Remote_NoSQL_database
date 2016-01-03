@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<nosqldbLOS>
+  <keytype>string</keytype>
+  <payloadtype>ListOfString</payloadtype>
+  <key>DBElement</key>
+  <element>
+    <name>DBElement</name>
+    <descr>Package containing element descriptions for the database</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>DBElementTest</key>
+  <element>
+    <name>DBElementTest</name>
+    <descr>Test package for DBElements</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBExtensions</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>DBEngine</key>
+  <element>
+    <name>DBEngine</name>
+    <descr>Package containing the in memory database and carrying out all the functions</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>DBEngineTest</key>
+  <element>
+    <name>DBEngineTest</name>
+    <descr>Test package for DBEngine</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBEngine</key>
+      <key>DBExtensions</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>DBExtensions</key>
+  <element>
+    <name>DBExtensions</name>
+    <descr>Package for showing elements, database, and so on</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBEngine</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>DBFactory</key>
+  <element>
+    <name>DBFactory</name>
+    <descr>Package containing the immutable database</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBEngine</key>
+      <key>QueryEngine</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>PersistEngine</key>
+  <element>
+    <name>PersistEngine</name>
+    <descr>Package for persisting and restoring the contents to and from xml files</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBEngine</key>
+      <key>DBExtensions</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>QueryEngine</key>
+  <element>
+    <name>QueryEngine</name>
+    <descr>Package for executing queries</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBEngine</key>
+      <key>DBExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>Scheduler</key>
+  <element>
+    <name>Scheduler</name>
+    <descr>Package to schedule the persisting to xml files</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+  <key>TestExec</key>
+  <element>
+    <name>TestExec</name>
+    <descr>Package for demonstrating the requirements</descr>
+    <timeStamp>10/5/2015 1:34:57 AM</timeStamp>
+    <children>
+      <key>DBElement</key>
+      <key>DBEngine</key>
+      <key>DBExtensions</key>
+      <key>DBFactory</key>
+      <key>PersistEngine</key>
+      <key>QueryEngine</key>
+      <key>Scheduler</key>
+      <key>UtilityExtensions</key>
+    </children>
+    <payload />
+  </element>
+</nosqldbLOS>

@@ -1,0 +1,10 @@
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\ReadRequestParser.exe.config
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\ReadRequestParser.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\ReadRequestParser.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\Utilities.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\ICommService.dll
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\Utilities.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\bin\Debug\ICommService.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\obj\Debug\ReadRequestParser.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\obj\Debug\ReadRequestParser.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\ReadRequestParser\obj\Debug\ReadRequestParser.csprojResolveAssemblyReference.cache

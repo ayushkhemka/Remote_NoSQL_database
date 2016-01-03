@@ -1,0 +1,65 @@
+<write>
+  <queryType type="add">
+    <numMessages>10</numMessages>
+    <query>
+      <key />
+      <name>name</name>
+      <descr>descr</descr>
+      <children>
+        <key>1</key>
+        <key>2</key>
+        <key>3</key>
+      </children>
+      <payload>
+        <item>1</item>
+        <item>2</item>
+      </payload>
+    </query>
+  </queryType>
+  <queryType type="edit">
+    <numMessages>2</numMessages>
+    <query>
+      <key>key</key>
+      <name>Name</name>
+      <descr>Descr</descr>
+      <children>
+        <key>1</key>
+        <key>2</key>
+      </children>
+      <payload>
+        <item>1</item>
+        <item>2</item>
+      </payload>
+    </query>
+  </queryType>
+  <queryType type="delete">
+    <numMessages>2</numMessages>
+    <query>
+      <key>key</key>
+      <name />
+      <descr />
+      <children />
+      <payload />
+    </query>
+  </queryType>
+  <queryType type="persist">
+    <numMessages>1</numMessages>
+    <query>
+      <key />
+      <name />
+      <descr />
+      <children />
+      <payload />
+    </query>
+  </queryType>
+  <queryType type="restore">
+    <numMessages>1</numMessages>
+    <query>
+      <key />
+      <name>xmlDocLOS.xml</name>
+      <descr />
+      <children />
+      <payload />
+    </query>
+  </queryType>
+</write>

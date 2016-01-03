@@ -1,0 +1,5 @@
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\NoSQLdb\NoSQLdb\bin\Debug\NoSQLdb.exe.config
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\NoSQLdb\NoSQLdb\bin\Debug\NoSQLdb.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\NoSQLdb\NoSQLdb\bin\Debug\NoSQLdb.pdb
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\NoSQLdb\NoSQLdb\obj\Debug\NoSQLdb.exe
+C:\Users\Ayush\Documents\Visual Studio 2015\Projects\Project4\NoSQLdb\NoSQLdb\obj\Debug\NoSQLdb.pdb
